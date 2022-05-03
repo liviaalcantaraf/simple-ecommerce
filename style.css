@@ -350,3 +350,18 @@ label {
   background-color: white;
   color: #190a38;
 }
+
+.gallery {
+  padding: 50px;
+  display: flex;
+  color: #190a38;
+}
+
+.galleryItem {
+  flex: 1;
+  padding: 50px;
+}
+
+.galleryImg {
+  width: 100%;
+}
